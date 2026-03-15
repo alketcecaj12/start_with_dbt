@@ -1,0 +1,11 @@
+order_id,customer_name,amount,status
+1,Alice,120.50,completed
+2,Bob,89.00,completed
+3,Alice,45.00,returned
+4,Charlie,200.00,completed
+5,Bob,310.75,completed
+6,Alice,60.00,completed
+7,Charlie,15.00,returned
+8,Diana,99.99,completed
+9,Diana,450.00,completed
+10,Bob,25.00,returned
